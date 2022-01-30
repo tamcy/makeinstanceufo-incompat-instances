@@ -1,0 +1,1 @@
+makeinstancesufo -vacn -d SourceSans3-Italic.designspace
